@@ -1,0 +1,8 @@
+//
+// Created by jfdeg on 15/01/2023.
+//
+
+#ifndef INFOPROJET_LABYRINTHE_H
+#define INFOPROJET_LABYRINTHE_H
+
+#endif //INFOPROJET_LABYRINTHE_H
